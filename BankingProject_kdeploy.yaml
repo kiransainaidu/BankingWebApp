@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: kiransai359-container
-        image: kiransai359/pl-javawebappimg
+        image: kiransai359/pl-bankjavawebappimg
         ports:
         - containerPort: 8082
 ---
